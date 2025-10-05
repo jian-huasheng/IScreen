@@ -1,0 +1,4 @@
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pyinstaller打包exe：
+pyinstaller -w -i iscreen.ico main.py ip_scan.py shoot_screen.py -p D:\Python310\Lib\site-packages
